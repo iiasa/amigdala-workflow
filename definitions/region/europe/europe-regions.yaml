@@ -18,7 +18,7 @@
       Sweden
     ]
   
-  EU15:
+  - EU15:
     description: European Union before the 2004 enlargement
     countries: [
       Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy,
