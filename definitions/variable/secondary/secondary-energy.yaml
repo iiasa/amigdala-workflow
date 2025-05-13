@@ -1,5 +1,5 @@
 - Secondary Energy Input|Steamcracking|Naphtha:
-    description: Secondary energy consumption of naphta for steamcracking (production of high value chemicals)
+    description: Secondary energy consumption of naphtha for steamcracking (production of high value chemicals)
     unit: ktpa
     climate_neutrality_dimension: D3
 
