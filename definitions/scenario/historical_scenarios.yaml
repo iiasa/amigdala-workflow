@@ -1,6 +1,6 @@
 - Eurostat:
     description: Source for historical data
-- WorldBank:
+- World Bank:
     description: Source for historical data
 - Petrochemicals Europe:
     description: Source for historical data
