@@ -1,0 +1,239 @@
+- Economic Growth|Agriculture [Index]:
+    description: Economic growth of the agriculture industry sector, including hunting, forestry, fishing, indexed with reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Automotive [Index]:
+    description: Economic growth of the automotive industry sector indexed with reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Basic Plastics [Index]:
+    description: Economic growth of the industry sector 'basic plastics' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Chemicals [Index]:
+    description: Economic growth of the industry chemicals, chemical products and man-made fibres, indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Coke [Index]:
+    description: Economic growth of the industry sector 'coke, refined petroleum products and nuclear fuel' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Construction [Index]:
+    description: Economic growth of the industry sector 'construction' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Electrical and Electronic [Index]:
+    description: Economic growth of the industry sector 'electrical and electronics' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Energy Supply|Electricity|Biomass and Waste [Index]:
+    description: Economic growth of the industry sector 'production of electricity by biomass and waste' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Energy Supply|Electricity|Coal [Index]:
+    description: Economic growth of the industry sector 'production of electricity by coal' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Energy Supply|Electricity|Gas [Index]:
+    description: Economic growth of the industry sector 'production of electricity by gas' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Energy Supply|Electricity|Hydro [Index]:
+    description: Economic growth of the industry sector 'production of electricity by hydro' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Energy Supply|Electricity|Hydrogen [Index]:
+    description: Economic growth of the industry sector 'production of electricity by hydrogen' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Energy Supply|Electricity|Nuclear [Index]:
+    description: Economic growth of the industry sector 'production of electricity by nuclear' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Energy Supply|Electricity|Petroleum [Index]:
+    description: Economic growth of the industry sector 'production of electricity by petroleum and other oil derivatives' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Energy Supply|Electricity|Solar [Index]:
+    description: Economic growth of the industry sector 'production of electricity by solar sources' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Energy Supply|Electricity|Wind  [Index]:
+    description: Economic growth of the industry sector 'production of electricity by wind' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Food Products  [Index]:
+    description: Economic growth of the industry sector 'food products, beverages and tobacco' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Metals and Metal Products  [Index]:
+    description: Economic growth of the industry sector 'basic metals and fabricated metal products' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Mining [Index]:
+    description: Economic growth of the industry sector 'mining and quarrying' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Non-Metallic Minerals [Index]:
+    description: Economic growth of the industry sector 'other non-metallic mineral products' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Other and Services [Index]:
+    description: Economic growth of the industry sector 'other and services' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Other Manufacturing [Index]:
+    description: Economic growth of the industry sector 'other manufacturing' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Pulp and Paper [Index]:
+    description: Economic growth of the industry sector 'pulp, paper and paper products; publishing and printing' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Recycling [Index]:
+    description: Economic growth of the industry sector 'recycling' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Rubber and Plastic Products [Index]:
+    description: Economic growth of the industry sector 'rubber and plastic products' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Supply|Electricity, Gas and Water  [Index]:
+    description: Economic growth of the industry sector 'electricity, gas and water supply' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Textile [Index]:
+    description: Economic growth of the industry sector 'textile and leather' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Transport Services [Index]:
+    description: Economic growth of the industry sector 'transport services' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Wholesale and trade repair [Index]:
+    description: Economic growth of the industry sector 'wholesale and trade repair' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Wood [Index]:
+    description: Economic growth of the industry sector 'food and wood products' indexed regarding the reference year 2019
+    unit: index wrt 2019
+
+- Economic Growth|Agriculture:
+    description: Economic growth of the agriculture industry sector, including hunting, forestry, fishing, as total amount
+    unit: mln euro
+
+- Economic Growth|Automotive:
+    description: Economic growth of the automotive industry sector as total amount
+    unit: mln euro
+
+- Economic Growth|Basic Plastics:
+    description: Economic growth of the industry sector 'basic plastics' as total amount
+    unit: mln euro
+
+- Economic Growth|Chemicals:
+    description: Economic growth of the 'industry chemicals, chemical products and man-made fibres' as total amount
+    unit: mln euro
+
+- Economic Growth|Coke:
+    description: Economic growth of the industry sector 'coke, refined petroleum products and nuclear fuel' as total amount
+    unit: mln euro
+
+- Economic Growth|Construction:
+    description: Economic growth of the industry sector 'construction' as total amount
+    unit: mln euro
+
+- Economic Growth|Energy Supply|Electricity|Biomass and Waste:
+    description: Economic growth of the industry sector 'electrical and electronics' as total amount
+    unit: mln euro
+
+- Economic Growth|Energy Supply|Electricity|Coal:
+    description: Economic growth of the industry sector 'production of electricity by biomass and waste' as total amount
+    unit: mln euro
+
+- Economic Growth|Electrical and Electronic:
+    description: Economic growth of the industry sector 'production of electricity by coal' as total amount
+    unit: mln euro
+
+- Economic Growth|Energy Supply|Electricity|Gas:
+    description: Economic growth of the industry sector 'production of electricity by gas' as total amount
+    unit: mln euro
+
+- Economic Growth|Energy Supply|Electricity|Hydro:
+    description: Economic growth of the industry sector 'production of electricity by hydro' as total amount
+    unit: mln euro
+
+- Economic Growth|Energy Supply|Electricity|Hydrogen:
+    description: Economic growth of the industry sector 'production of electricity by hydrogen' as total amount
+    unit: mln euro
+
+- Economic Growth|Energy Supply|Electricity|Nuclear:
+    description: Economic growth of the industry sector 'production of electricity by nuclear' as total amount
+    unit: mln euro
+
+- Economic Growth|Energy Supply|Electricity|Petroleum:
+    description: Economic growth of the industry sector 'production of electricity by petroleum and other oil derivatives' as total amount
+    unit: mln euro
+
+- Economic Growth|Energy Supply|Electricity|Solar:
+    description: Economic growth of the industry sector 'production of electricity by solar sources' as total amount
+    unit: mln euro
+
+- Economic Growth|Supply|Electricity Gas and Water:
+    description: Economic growth of the industry sector 'electricity, gas and water supply' as total amount
+    unit: mln euro
+
+- Economic Growth|Energy Supply|Electricity|Wind:
+    description: Economic growth of the industry sector 'production of electricity by wind' as total amount
+    unit: mln euro
+
+- Economic Growth|Food Products:
+    description: Economic growth of the industry sector 'food products, beverages and tobacco' as total amount
+    unit: mln euro
+
+- Economic Growth|Metals and Metal Products:
+    description: Economic growth of the industry sector 'basic metals and fabricated metal products' as total amount
+    unit: mln euro
+
+- Economic Growth|Mining:
+    description: Economic growth of the industry sector 'mining and quarrying' as total amount
+    unit: mln euro
+
+- Economic Growth|Non-Metallic Minerals:
+    description: Economic growth of the industry sector 'other non-metallic mineral products' as total amount
+    unit: mln euro
+
+- Economic Growth|Other Manufacturing:
+    description: Economic growth of the industry sector 'other manufacturing' as total amount
+    unit: mln euro
+
+- Economic Growth|Pulp and Paper:
+    description: Economic growth of the industry sector 'pulp, paper and paper products; publishing and printing'' as total amount
+    unit: mln euro
+
+- Economic Growth|Recycling:
+    description: Economic growth of the industry sector 'recycling' as total amount
+    unit: mln euro
+
+- Economic Growth|Rubber and Plastic Products:
+    description: Economic growth of the industry sector 'rubber and plastic products' as total amount
+    unit: mln euro
+
+- Economic Growth|Other and Services:
+    description: Economic growth of the industry sector 'other and services' as total amount
+    unit: mln euro
+
+- Economic Growth|Textile:
+    description: Economic growth of the industry sector 'textile and leather' as total amount
+    unit: mln euro
+
+- Economic Growth|Transport Services:
+    description: Economic growth of the industry sector 'transport services' as total amount
+    unit: mln euro
+
+- Economic Growth|Wholesale and trade repair:
+    description: Economic growth of the industry sector 'wholesale and trade repair' as total amount
+    unit: mln euro
+    
+- Economic Growth|Wood:
+    description: Economic growth of the industry sector 'food and wood products' as total amount
+    unit: mln euro

@@ -1,0 +1,7 @@
+- Trade|Intra EU [Share]:
+  description: trade of EU with world as share of total demand in world
+  unit: '%'
+
+- Trade|Inter EU [Share]:
+  description: trade within the EU as share of the total demand in EU
+  unit: '%'
