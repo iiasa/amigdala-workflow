@@ -1,13 +1,13 @@
 - Product Demand|Oil:
-  description: Product demand for the product group 'oil'
+  description: Product demand for the product group oil
   unit: mln euro
   
 - Product Demand|Agriculture:
-  description: Product demand for the product group 'agriculture hunting, forestry, fishing'
+  description: Product demand for the product group agriculture hunting, forestry, fishing
   unit: mln euro
 
 - Product Demand|Automotive:
-  description: Product demand for the product group 'automotive'
+  description: Product demand for the product group "automotive"
   unit: mln euro
 
 - Product Demand|Basic Plastics:
@@ -22,8 +22,8 @@
   description: Product demand for the product group 'coal'
   unit: mln euro
 
-- Product Demand|Coke:d
-  escription: Product demand for the product group 'coke, refined petroleum products and nuclear fuel'
+- Product Demand|Coke:
+  description: Product demand for the product group 'coke, refined petroleum products and nuclear fuel'
   unit: mln euro
 
 - Product Demand|Construction:
