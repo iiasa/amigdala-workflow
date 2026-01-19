@@ -87,7 +87,7 @@
     unit: index wrt 2019
 
 - Economic Growth|Pulp and Paper [Index]:
-    description: Economic growth of the industry sector 'pulp, paper and paper products; publishing and printing' indexed regarding the reference year 2019
+    description: Economic growth of the industry sector 'pulp, paper and paper products, publishing and printing' indexed regarding the reference year 2019
     unit: index wrt 2019
 
 - Economic Growth|Recycling [Index]:
@@ -207,7 +207,7 @@
     unit: mln euro
 
 - Economic Growth|Pulp and Paper:
-    description: Economic growth of the industry sector 'pulp, paper and paper products; publishing and printing'' as total amount
+    description: Economic growth of the industry sector 'pulp, paper and paper products, publishing and printing'' as total amount
     unit: mln euro
 
 - Economic Growth|Recycling:
