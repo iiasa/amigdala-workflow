@@ -1,198 +1,198 @@
 - Product Demand|Oil:
-  description: Product demand for the product group oil
-  unit: mln euro
-  
+    description: Product demand for the product group 'oil'
+    unit: mln euro
+    
 - Product Demand|Agriculture:
-  description: Product demand for the product group agriculture hunting, forestry, fishing
-  unit: mln euro
+      description: Product demand for the product group 'agriculture hunting, forestry, fishing'
+      unit: mln euro
 
 - Product Demand|Automotive:
-  description: Product demand for the product group "automotive"
-  unit: mln euro
+    description: Product demand for the product group 'automotive'
+    unit: mln euro
 
 - Product Demand|Basic Plastics:
-  description: Product demand for the product group 'basic plastics'
-  unit: mln euro
+    description: Product demand for the product group 'basic plastics'
+    unit: mln euro
 
 - Product Demand|Chemicals:
-  description: Product demand for the product group 'chemicals, chemical products and man-made fibres'
-  unit: mln euro
+    description: Product demand for the product group 'chemicals, chemical products and man-made fibres'
+    unit: mln euro
 
 - Product Demand|Coal:
-  description: Product demand for the product group 'coal'
-  unit: mln euro
+    description: Product demand for the product group 'coal'
+    unit: mln euro
 
 - Product Demand|Coke:
-  description: Product demand for the product group 'coke, refined petroleum products and nuclear fuel'
-  unit: mln euro
+    description: Product demand for the product group 'coke, refined petroleum products and nuclear fuel'
+    unit: mln euro
 
 - Product Demand|Construction:
-  description: Product demand for the product group 'construction'
-  unit: mln euro
+    description: Product demand for the product group 'construction'
+    unit: mln euro
 
 - Product Demand|Electrical and Electronic:
-  description: Product demand for the product group 'electrical and electronics'
-  unit: mln euro
+    description: Product demand for the product group 'electrical and electronics'
+    unit: mln euro
 
 - Product Demand|Electricity Water Supply:
-  description: Product demand for the product group 'electricity, gas and water supply'
-  unit: mln euro
+    description: Product demand for the product group 'electricity, gas and water supply'
+    unit: mln euro
 
 - Product Demand|Electricity:
-  description: Product demand for the product group 'electricity'
-  unit: mln euro
+    description: Product demand for the product group 'electricity'
+    unit: mln euro
 
 - Product Demand|Food:
-  description: Product demand for the product group 'food products, beverages and tobacco'
-  unit: mln euro
+    description: Product demand for the product group 'food products, beverages and tobacco'
+    unit: mln euro
 
 - Product Demand|Metals and Metal Products:
-  description: Product demand for the product group 'basic metals and fabricated metal products'
-  unit: mln euro
+    description: Product demand for the product group 'basic metals and fabricated metal products'
+    unit: mln euro
 
 - Product Demand|Mining:
-  description: Product demand for the product group 'mining and quarrying'
-  unit: mln euro
+    description: Product demand for the product group 'mining and quarrying'
+    unit: mln euro
 
 - Product Demand|Natural Gas:
-  description: Product demand for the product group 'natural gas'
-  unit: mln euro
+    description: Product demand for the product group 'natural gas'
+    unit: mln euro
 
 - Product Demand|Non-Metallic Minerals:
-  description: Product demand for the product group 'other non-metallic mineral products'
-  unit: mln euro
+    description: Product demand for the product group 'other non-metallic mineral products'
+    unit: mln euro
 
 - Product Demand|Other Manufacturing:
-  description: Product demand for the product group 'other manufacturing'
-  unit: mln euro
+    description: Product demand for the product group 'other manufacturing'
+    unit: mln euro
 
 - Product Demand|Pulp and Paper:
-  description: Product demand for the product group 'pulp, paper and paper products; publishing and printing'
-  unit: mln euro
+    description: Product demand for the product group 'pulp, paper and paper products; publishing and printing'
+    unit: mln euro
 
 - Product Demand|Recycling:
-  description: Product demand for the product group 'recycling'
-  unit: mln euro
+    description: Product demand for the product group 'recycling'
+    unit: mln euro
 
 - Product Demand|Rubber and Plastic Products:
-  description: Product demand for the product group 'rubber and plastic products'
-  unit: mln euro
+    description: Product demand for the product group 'rubber and plastic products'
+    unit: mln euro
 
 - Product Demand|Other and Services:
-  description: Product demand for the product group 'other and services'
-  unit: mln euro
+    description: Product demand for the product group 'other and services'
+    unit: mln euro
 
 - Product Demand|Texitle and Leather:
-  description: Product demand for the product group 'textile and leather'
-  unit: mln euro
+    description: Product demand for the product group 'textile and leather'
+    unit: mln euro
 
 - Product Demand|Transport Services:
-  description: Product demand for the product group 'transport services'
-  unit: mln euro
+    description: Product demand for the product group 'transport services'
+    unit: mln euro
 
 - Product Demand|Wholesale and Trade Repair:
-  description: Product demand for the product group 'wholesale and trade repair'
-  unit: mln euro
+    description: Product demand for the product group 'wholesale and trade repair'
+    unit: mln euro
 
 - Product Demand|Wood:
-  description: Product demand for the product group 'wood and wood products'
-  unit: mln euro
+    description: Product demand for the product group 'wood and wood products'
+    unit: mln euro
 
 - Product Demand|Oil [Index]:
-  description: Product demand for the product group 'oil' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'oil' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Agriculture [Index]:
-  description: Product demand for the product group 'agriculture hunting, forestry, fishing' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'agriculture hunting, forestry, fishing' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Automotive [Index]:
-  description: Product demand for the product group 'automotive' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'automotive' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Basic Plastics [Index]:
-  description: Product demand for the product group 'basic plastics' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'basic plastics' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Chemicals [Index]:
-  description: Product demand for the product group 'chemicals, chemical products and man-made fibres' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'chemicals, chemical products and man-made fibres' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Coal [Index]:
-  description: Product demand for the product group 'coal' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'coal' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Coke [Index]:
-  description: Product demand for the product group 'coke, refined petroleum products and nuclear fuel' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'coke, refined petroleum products and nuclear fuel' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Construction [Index]:
-  description: Product demand for the product group 'construction' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'construction' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Electrical and Electronic [Index]:
-  description: Product demand for the product group 'electrical and electronics' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'electrical and electronics' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Electricity Water Supply [Index]:
-  description: Product demand for the product group 'electricity, gas and water supply' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'electricity, gas and water supply' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Electricity [Index]:
-  description: Product demand for the product group 'electricity' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'electricity' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Food [Index]:
-  description: Product demand for the product group 'food products, beverages and tobacco' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'food products, beverages and tobacco' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Metals and Metal Products [Index]:
-  description: Product demand for the product group 'basic metals and fabricated metal products' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'basic metals and fabricated metal products' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Mining [Index]:
-  description: Product demand for the product group 'mining and quarrying' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'mining and quarrying' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Natural Gas [Index]:
-  description: Product demand for the product group 'natural gas' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'natural gas' indexed regarding the reference year 2019
+    unit: index wrt 2019
 - Product Demand|Non-Metallic Minerals [Index]:
-  description: Product demand for the product group 'other non-metallic mineral products' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'other non-metallic mineral products' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Other Manufacturing [Index]:
-  description: Product demand for the product group 'other manufacturing' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'other manufacturing' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Pulp and Paper [Index]:
-  description: Product demand for the product group 'pulp, paper and paper products; publishing and printing' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'pulp, paper and paper products; publishing and printing' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Recycling [Index]:
-  description: Product demand for the product group 'recycling' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'recycling' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Rubber and Plastic Products [Index]:
-  description: Product demand for the product group 'rubber and plastic products' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'rubber and plastic products' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Other and Services [Index]:
-  description: Product demand for the product group 'other and services' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'other and services' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Texitle and Leather [Index]:
-  description: Product demand for the product group 'textile and leather' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'textile and leather' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Transport Services [Index]:
-  description: Product demand for the product group 'transport services' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'transport services' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Wholesale and Trade Repair [Index]:
-  description: Product demand for the product group 'wholesale and trade repair' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'wholesale and trade repair' indexed regarding the reference year 2019
+    unit: index wrt 2019
 
 - Product Demand|Wood [Index]:
-  description: Product demand for the product group 'wood and wood products' indexed regarding the reference year 2019
-  unit: index wrt 2019
+    description: Product demand for the product group 'wood and wood products' indexed regarding the reference year 2019
+    unit: index wrt 2019
