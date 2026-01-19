@@ -22,8 +22,8 @@
   description: Product demand for the product group 'coal'
   unit: mln euro
 
-- Product Demand|Coke:d
-  escription: Product demand for the product group 'coke, refined petroleum products and nuclear fuel'
+- Product Demand|Coke:
+  description: Product demand for the product group 'coke, refined petroleum products and nuclear fuel'
   unit: mln euro
 
 - Product Demand|Construction:
