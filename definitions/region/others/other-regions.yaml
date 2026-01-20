@@ -58,7 +58,8 @@
     - Eastern Africa:
          description: Region of Eastern Africa as defined by TIAM
          countries: [
-            Burundi, Djibouti, Eritrea, Rwanda, Sudan, Somalia, South Sudan, Seychelles, Uganda, South Sudan, Somaliland
+            Burundi, Djibouti, Eritrea, Rwanda, Sudan, Somalia, South Sudan, Seychelles, Uganda, South Sudan, 
+            # also Somaliland
          ]
 
     - Western Africa:
