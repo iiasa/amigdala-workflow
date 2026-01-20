@@ -27,13 +27,13 @@
     - Eastern Europe:
         description: Region of Eastern Europe as defined by TIAM
         countries: [
-            Albania, Bulgaria, Bosnia and Herzegovina, Cyprus, Czech Republic, Croatia, Hungary, Republic of North Macedonia, Montenegro, Poland, Romania, Kosovo, Serbia, Slovak Republic, Slovenia, 
+            Albania, Bulgaria, Bosnia and Herzegovina, Cyprus, Czechia, Croatia, Hungary, North Macedonia, Montenegro, Poland, Romania, Kosovo, Serbia, Slovakia, Slovenia, 
         ]
 
     - Europe:
         description: Europe as defined by TIAM
         countries: [
-            to be done
+            Austria # and others to be added
         ]
         
     - Western Europe:
@@ -51,7 +51,7 @@
     - Africa:
         description: Continent of Africa as defined by TIAM
         countries: [
-            to be done
+            South Africa # and others to be added
         ]
 
     - Eastern Africa:
@@ -75,13 +75,13 @@
     - North America:
         description: Continent of North America as defined by TIAM
         countries: [
-            to be done
+            United States  # and others to be added
         ]
 
     - South America:
         description: Continent of South America
         countries: [
-            to be done
+            Brazil # and others to be added
         ]   
 
     - Other Latin America:
@@ -93,31 +93,31 @@
     - Rest of Asia and Pacific:
         description: Region of Rest of Asia and Pacific as defined by TIAM
         countries: [
-            to be done
+             China # and others to be added
         ]
 
     - Eastern Asia:
         description: Region of Eastern Asia as defined by TIAM
         countries: [
-            to be done
+            China # and others to be added
         ]
 
     - Southeastern Asia:
         description: Region of Southeastern Asia as defined by TIAM
         countries: [
-            to be done
+            Viet Nam # and others to be added
         ]
 
     - Southern Asia:
         description: Region of Southern Asia as defined by TIAM
         countries: [
-            to be done
+            India # and others to be added
         ]
 
     - Middle East & Africa: 
         description: Region of Middle East & Africa as defined by TIAM
         countries: [
-            to be done
+            Oman # and others to be added
         ]
 
     - Other Developing Asia:
