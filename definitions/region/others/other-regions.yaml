@@ -143,11 +143,12 @@
         description: Region of Other Developing Asia as defined by TIAM
         countries: [
            Afghanistan, American Samoa, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, 
-           China, Macao, Chinese Taipei, Cook Islands, Democratic People's Republic of Korea, 
-           Fiji, French Polynesia, Guam, Indonesia, Kiribati, Lao People's Democratic Republic, 
-           Malaysia, Maldives, Marshall Islands, Micronesia (Fed. States of), Mongolia, Myanmar, 
-           Nauru, Nepal, New Caledonia, Niue, Northern Mariana Islands, Other non-specified areas, 
-           Pakistan, Palau, Papua New Guinea, Philippines, Samoa, Scarborough Reef, Singapore, 
-           Solomon Islands, Spratly Islands, Sri Lanka, Thailand, Timor-Leste, Tokelau, Tonga, 
-           Tuvalu, Vanuatu, Viet Nam, Wallis and Futuna Islands, 
+           China, Macao, Taiwan, Cook Islands, North Korea, 
+           Fiji, French Polynesia, Guam, Indonesia, Kiribati, Laos, 
+           Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia, Myanmar, 
+           Nauru, Nepal, New Caledonia, Niue, Northern Mariana Islands, 
+           Pakistan, Palau, Papua New Guinea, Philippines, Samoa, Singapore, 
+           Solomon Islands, Sri Lanka, Thailand, Timor-Leste, Tokelau, Tonga, 
+           Tuvalu, Vanuatu, Viet Nam, Wallis and Futuna, 
+           # also: Scarborough Reef, Spratly Islands, Other non-specified areas, 
         ]
