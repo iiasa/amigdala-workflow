@@ -65,14 +65,18 @@
     - Western Africa:
         description: Region of Western Africa as defined by TIAM
         countries: [
-            Benin, Burkina Faso, Côte d'Ivoire, Cabo Verde, Western Sahara, Ghana, Guinea, Gambia, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Senegal, Sierra Leone, Sao Tome and Principe, Togo
+            Benin, Burkina Faso, Côte d'Ivoire, Cabo Verde, 
+            Western Sahara, Ghana, Guinea, Gambia, Guinea-Bissau, 
+            Liberia, Mali, Mauritania, Niger, Senegal, Sierra Leone, 
+            Sao Tome and Principe, Togo
             # renamed Cape Verde to Cabo Verde and removed Saint Helena. This one did not work "Saint Helena, Ascension and Tristan da Cunha"
         ]
 
     - Middle East:
         description: Region of Middle East as defined by TIAM
         countries: [
-            Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Palestine, Qatar, Saudi Arabia, Syrian, Turkey, Yemen
+            Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Palestine, Qatar, 
+            Saudi Arabia, Syria, Turkey, Yemen
             # also West Bank and Gaza 
         ]
 
@@ -91,7 +95,18 @@
     - Other Latin America:
         description: Region of Other Latin America as defined by TIAM
         countries: [
-            Anguilla, Antigua and Barbuda, Aruba, Bahamas, Bajo Nuevo Bank (Petrel Is.), Barbados, Belize, Bermuda, British Virgin Islands, Caribbean Netherlands, Caribbean small states, Cayman Islands, Clipperton Island, Costa Rica, Cuba, Cuba, Curaçao/Netherlands Antilles, Dominica, Dominican Republic, Ecuador, El Salvador, French Guiana, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Paraguay, Peru, Plurinational State of Bolivia, Puerto Rico, Saint Barthelemy, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, Serranilla Bank, Sint Maarten (Dutch part), St. Martin (French part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, United States Virgin Islands, Uruguay, 
+            Anguilla, Antigua and Barbuda, Aruba, Bahamas, 
+            Barbados, Belize, Bermuda, British Virgin Islands,
+            Cayman Islands, Clipperton Island, Costa Rica, Cuba, 
+            Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, 
+            El Salvador, French Guiana, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, 
+            Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Paraguay, Peru, 
+            Bolivia, Puerto Rico, Saint Barthelemy, Saint Kitts and Nevis, 
+            Saint Lucia, Saint Vincent and the Grenadines, Serranilla Bank, Sint Maarten (Dutch part), 
+            St. Martin (French part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, 
+            United States Virgin Islands, Uruguay, 
+            # also: Caribbean small states, Bajo Nuevo Bank (Petrel Is.), Caribbean Netherlands
+            # renamed Curacao//Netherlands Antilles
         ]
         
     - Rest of Asia and Pacific:
@@ -127,5 +142,12 @@
     - Other Developing Asia:
         description: Region of Other Developing Asia as defined by TIAM
         countries: [
-           Afghanistan, American Samoa, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, China, Macao SAR, Chinese Taipei, Cook Islands, Democratic People's Republic of Korea, Fiji, French Polynesia, Guam, Indonesia, Kiribati, Lao People's Democratic Republic, Malaysia, Maldives, Marshall Islands, Micronesia (Fed. States of), Mongolia, Myanmar, Nauru, Nepal, New Caledonia, Niue, Northern Mariana Islands, Other non-specified areas, Pakistan, Palau, Papua New Guinea, Philippines, Samoa, Scarborough Reef, Singapore, Solomon Islands, Spratly Islands, Sri Lanka, Thailand, Timor-Leste, Tokelau, Tonga, Tuvalu, Vanuatu, Viet Nam, Wallis and Futuna Islands, 
+           Afghanistan, American Samoa, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, 
+           China, Macao, Chinese Taipei, Cook Islands, Democratic People's Republic of Korea, 
+           Fiji, French Polynesia, Guam, Indonesia, Kiribati, Lao People's Democratic Republic, 
+           Malaysia, Maldives, Marshall Islands, Micronesia (Fed. States of), Mongolia, Myanmar, 
+           Nauru, Nepal, New Caledonia, Niue, Northern Mariana Islands, Other non-specified areas, 
+           Pakistan, Palau, Papua New Guinea, Philippines, Samoa, Scarborough Reef, Singapore, 
+           Solomon Islands, Spratly Islands, Sri Lanka, Thailand, Timor-Leste, Tokelau, Tonga, 
+           Tuvalu, Vanuatu, Viet Nam, Wallis and Futuna Islands, 
         ]
