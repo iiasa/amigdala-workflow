@@ -24,18 +24,18 @@
           Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom
         ]
 
-    - Europe:
-        description: Europe as defined by TIAM
-        countries: [
-            to be done
-        ]
-
     - Eastern Europe:
         description: Region of Eastern Europe as defined by TIAM
         countries: [
             Albania, Bulgaria, Bosnia and Herzegovina, Cyprus, Czech Republic, Croatia, Hungary, Republic of North Macedonia, Montenegro, Poland, Romania, Kosovo, Serbia, Slovak Republic, Slovenia, 
         ]
 
+    - Europe:
+        description: Europe as defined by TIAM
+        countries: [
+            to be done
+        ]
+        
     - Western Europe:
         description: Region of Western Europe as defined by TIAM
         countries: [
