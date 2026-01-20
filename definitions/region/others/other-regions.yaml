@@ -72,7 +72,7 @@
     - Middle East:
         description: Region of Middle East as defined by TIAM
         countries: [
-            Bahrain, Islamic Republic of Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, State of Palestine, Qatar, Saudi Arabia, Syrian Arab Republic, Turkey, Yemen, Palestine
+            Bahrain, Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, Palestine, Qatar, Saudi Arabia, Syrian, Turkey, Yemen
             # also West Bank and Gaza 
         ]
 
