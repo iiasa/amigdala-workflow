@@ -97,15 +97,15 @@
         countries: [
             Anguilla, Antigua and Barbuda, Aruba, Bahamas, 
             Barbados, Belize, Bermuda, British Virgin Islands,
-            Cayman Islands, Clipperton Island, Costa Rica, Cuba, 
+            Cayman Islands, Costa Rica, Cuba, 
             Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, 
             El Salvador, French Guiana, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, 
             Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Paraguay, Peru, 
-            Bolivia, Puerto Rico, Saint Barthelemy, Saint Kitts and Nevis, 
-            Saint Lucia, Saint Vincent and the Grenadines, Serranilla Bank, Sint Maarten (Dutch part), 
-            St. Martin (French part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, 
+            Bolivia, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, 
+            Saint Lucia, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), 
+            Saint Martin (French part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, 
             United States Virgin Islands, Uruguay, 
-            # also: Caribbean small states, Bajo Nuevo Bank (Petrel Is.), Caribbean Netherlands
+            # also: Caribbean small states, Clipperton Island, Bajo Nuevo Bank (Petrel Is.), Caribbean Netherlands, Serranilla Bank, 
             # renamed Curacao//Netherlands Antilles
         ]
         
