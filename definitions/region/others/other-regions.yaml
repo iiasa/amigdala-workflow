@@ -65,13 +65,15 @@
     - Western Africa:
         description: Region of Western Africa as defined by TIAM
         countries: [
-            Benin, Burkina Faso, Côte d'Ivoire, Cape Verde, Western Sahara, Ghana, Guinea, Gambia, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Senegal, Saint Helena, Sierra Leone, Sao Tome and Principe, Togo
+            Benin, Burkina Faso, Côte d'Ivoire, Cabo Verde, Western Sahara, Ghana, Guinea, Gambia, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Senegal, Saint Helena, Ascension and Tristan da Cunha, Sierra Leone, Sao Tome and Principe, Togo
+            # renamed Cape Verde to Cabo Verde and Saint Helena to "Saint Helena, Ascension and Tristan da Cunha"
         ]
 
     - Middle East:
         description: Region of Middle East as defined by TIAM
         countries: [
-            Bahrain, Islamic Republic of Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, State of Palestine, Qatar, Saudi Arabia, Syrian Arab Republic, Turkey, West Bank and Gaza, Yemen, Palistine
+            Bahrain, Islamic Republic of Iran, Iraq, Israel, Jordan, Kuwait, Lebanon, Oman, State of Palestine, Qatar, Saudi Arabia, Syrian Arab Republic, Turkey, Yemen, Palestine
+            # also West Bank and Gaza 
         ]
 
     - North America:
