@@ -65,8 +65,8 @@
     - Western Africa:
         description: Region of Western Africa as defined by TIAM
         countries: [
-            Benin, Burkina Faso, Côte d'Ivoire, Cabo Verde, Western Sahara, Ghana, Guinea, Gambia, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Senegal, Saint Helena, Ascension and Tristan da Cunha, Sierra Leone, Sao Tome and Principe, Togo
-            # renamed Cape Verde to Cabo Verde and Saint Helena to "Saint Helena, Ascension and Tristan da Cunha"
+            Benin, Burkina Faso, Côte d'Ivoire, Cabo Verde, Western Sahara, Ghana, Guinea, Gambia, Guinea-Bissau, Liberia, Mali, Mauritania, Niger, Senegal, Sierra Leone, Sao Tome and Principe, Togo
+            # renamed Cape Verde to Cabo Verde and removed Saint Helena. This one did not work "Saint Helena, Ascension and Tristan da Cunha"
         ]
 
     - Middle East:
