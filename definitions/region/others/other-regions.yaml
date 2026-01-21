@@ -59,11 +59,11 @@
         description: Continent of Africa as defined by TIAM for EXIOMOD
         countries: [
             Morocco, Algeria, Tunisia, Libya, Egypt, Nigeria, 
-            Ethiopia, Kenya, Congo DR, Angola, Madagascar, South Africa,
-            Central African Republic, Cameroon, Republic of the Congo, Gabon, Equatorial Guinea, Chad, 
+            Ethiopia, Kenya, Democratic Republic of the Congo, Angola, Madagascar, South Africa,
+            Central African Republic, Cameroon, Congo, Gabon, Equatorial Guinea, Chad, 
             Burundi, Djibouti, Eritrea, Rwanda, Sudan, Somalia, South Sudan, Seychelles, Uganda, South Sudan, 
-            Botswana, Comoros, Lesotho, Mauritius, Malawi, Mayotte, Namibia, Réunion, Swaziland, Zambia, Zimbabwe,
-            Mozambique, United Republic of Tanzania,  
+            Botswana, Comoros, Lesotho, Mauritius, Malawi, Mayotte, Namibia, Réunion, Eswatini, Zambia, Zimbabwe,
+            Mozambique, Tanzania,  
             Benin, Burkina Faso, Côte d'Ivoire, Cabo Verde, 
             Western Sahara, Ghana, Guinea, Gambia, Guinea-Bissau, 
             Liberia, Mali, Mauritania, Niger, Senegal, Sierra Leone, 
@@ -78,7 +78,7 @@
     - Central Africa:
         description: Region of Central Africa as defined by TIAM
         countries: [
-            Central African Republic, Cameroon, Republic of the Congo, Gabon, Equatorial Guinea, Chad, 
+            Central African Republic, Cameroon, Congo, Gabon, Equatorial Guinea, Chad, 
         ]
 
     - Eastern Africa:
@@ -101,13 +101,13 @@
     - Southern Africa:
         description: Region of Southern Africa as defined by TIAM
         countries: [
-            Botswana, Comoros, Lesotho, Mauritius, Malawi, Mayotte, Namibia, Réunion, Swaziland, Zambia, Zimbabwe, 
-        ]
+            Botswana, Comoros, Lesotho, Mauritius, Malawi, Mayotte, Namibia, Réunion, Eswatini, Zambia, Zimbabwe, 
+        ] # replaced Swaziland with Eswatini
 
     - Southeast Africa:
         description: Region of Southeast Africa as defined by TIAM
         countries: [
-            Mozambique, United Republic of Tanzania
+            Mozambique, Tanzania
         ]
 
     - Middle East:
