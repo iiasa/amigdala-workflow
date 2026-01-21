@@ -40,7 +40,7 @@
         description: Region of Western Europe as defined by TIAM
         countries: [
             Andorra, Austria, Belgium, Denmark, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Greenland, Guernsey, Vatican, Iceland, Ireland, Isle of Man, Isle of Man, Italy, Jersey, Liechtenstein, Luxembourg, Malta, Monaco, Netherlands, Norway, Portugal, San Marino, Spain, Sweden, Switzerland, United Kingdom
-            # also Aland Islands, Channel Islands, Holy See (replaced with Vatican)) 
+          "Åland Islands"  # also Aland Islands, Channel Islands, Holy See (replaced with Vatican)) 
         ]
 
     - Former Soviet Union:
