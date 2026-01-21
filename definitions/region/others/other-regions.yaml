@@ -24,24 +24,30 @@
           Luxembourg, Netherlands, Portugal, Spain, Sweden, United Kingdom
         ]
 
+    - Europe:
+        description: Western Euope and Eastern Europe as defined by TIAM for EXIOMOD
+        countries: [
+            Albania, Bulgaria, Bosnia and Herzegovina, Cyprus, Czechia, Croatia, Hungary, North Macedonia, Montenegro, Poland, Romania, Kosovo, Serbia, Slovakia, Slovenia,
+            Andorra, Austria, Belgium, Denmark, Faroe Islands, Finland, France, 
+            Germany, Gibraltar, Greece, Greenland, Guernsey, Vatican, Iceland, Ireland, Isle of Man, 
+            Isle of Man, Italy, Jersey, Liechtenstein, Luxembourg, Malta, Monaco, 
+            Netherlands, Norway, Portugal, San Marino, Spain, Sweden, Switzerland, United Kingdom, Åland Islands 
+        ]   # comprises of Eastern Europe (starting at Albania) and Western Europe (starting at Andorra)
+
     - Eastern Europe:
         description: Region of Eastern Europe as defined by TIAM
         countries: [
             Albania, Bulgaria, Bosnia and Herzegovina, Cyprus, Czechia, Croatia, Hungary, North Macedonia, Montenegro, Poland, Romania, Kosovo, Serbia, Slovakia, Slovenia, 
         ]
-
-    - Europe:
-        description: Europe as defined by TIAM
-        countries: [
-            Austria # and others to be added
-        ]
         
     - Western Europe:
         description: Region of Western Europe as defined by TIAM
         countries: [
-            Andorra, Austria, Belgium, Denmark, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Greenland, Guernsey, Vatican, Iceland, Ireland, Isle of Man, Isle of Man, Italy, Jersey, Liechtenstein, Luxembourg, Malta, Monaco, Netherlands, Norway, Portugal, San Marino, Spain, Sweden, Switzerland, United Kingdom,
-          Åland Islands  # also Aland Islands, Channel Islands, Holy See (replaced with Vatican)) 
-        ]
+            Andorra, Austria, Belgium, Denmark, Faroe Islands, Finland, France, 
+            Germany, Gibraltar, Greece, Greenland, Guernsey, Vatican, Iceland, Ireland, Isle of Man, 
+            Isle of Man, Italy, Jersey, Liechtenstein, Luxembourg, Malta, Monaco, 
+            Netherlands, Norway, Portugal, San Marino, Spain, Sweden, Switzerland, United Kingdom, Åland Islands  
+        ] # also Channel Islands, Holy See (replaced with Vatican)) 
 
     - Former Soviet Union:
         description: Region of Former Soviet Union as defined by TIAM
@@ -50,9 +56,29 @@
         ]
 
     - Africa:
-        description: Continent of Africa as defined by TIAM
+        description: Continent of Africa as defined by TIAM for EXIOMOD
         countries: [
-            South Africa # and others to be added
+            Morocco, Algeria, Tunisia, Libya, Egypt, Nigeria, 
+            Ethiopia, Kenya, Congo DR, Angola, Madagascar, South Africa,
+            Central African Republic, Cameroon, Republic of the Congo, Gabon, Equatorial Guinea, Chad, 
+            Burundi, Djibouti, Eritrea, Rwanda, Sudan, Somalia, South Sudan, Seychelles, Uganda, South Sudan, 
+            Botswana, Comoros, Lesotho, Mauritius, Malawi, Mayotte, Namibia, Réunion, Swaziland, Zambia, Zimbabwe,
+            Mozambique, United Republic of Tanzania,  
+            Benin, Burkina Faso, Côte d'Ivoire, Cabo Verde, 
+            Western Sahara, Ghana, Guinea, Gambia, Guinea-Bissau, 
+            Liberia, Mali, Mauritania, Niger, Senegal, Sierra Leone, 
+            Sao Tome and Principe, Togo, "Saint Helena, Ascension and Tristan da Cunha",
+        ]   
+        # also includes Central Africa (starting at Central African Republic), 
+        # Eastern Africa (starting at Burundi), 
+        # Southern Africa (starting at Botswana), 
+        # Southeast Africa (starting at Mozambique)
+        # Western Africa (starting at Benin), 
+
+    - Central Africa:
+        description: Region of Central Africa as defined by TIAM
+        countries: [
+            Central African Republic, Cameroon, Republic of the Congo, Gabon, Equatorial Guinea, Chad, 
         ]
 
     - Eastern Africa:
@@ -72,6 +98,18 @@
             # renamed Cape Verde to Cabo Verde and removed Saint Helena. This one did not work "Saint Helena, Ascension and Tristan da Cunha"
         ]
 
+    - Southern Africa:
+        description: Region of Southern Africa as defined by TIAM
+        countries: [
+            Botswana, Comoros, Lesotho, Mauritius, Malawi, Mayotte, Namibia, Réunion, Swaziland, Zambia, Zimbabwe, 
+        ]
+
+    - Southeast Africa:
+        description: Region of Southeast Africa as defined by TIAM
+        countries: [
+            Mozambique, United Republic of Tanzania
+        ]
+
     - Middle East:
         description: Region of Middle East as defined by TIAM
         countries: [
@@ -83,14 +121,24 @@
     - North America:
         description: Continent of North America as defined by TIAM
         countries: [
-            United States  # and others to be added
+           Canada, Mexico, USA, Argentina, 
         ]
 
     - South America:
         description: Continent of South America
         countries: [
-            Brazil # and others to be added
-        ]   
+            Brazil, Chile, Colombia, Venezuela,
+            Anguilla, Antigua and Barbuda, Aruba, Bahamas, 
+            Barbados, Belize, Bermuda, British Virgin Islands,
+            Cayman Islands, Costa Rica, Cuba, 
+            Cuba, Curaçao, Dominica, Dominican Republic, Ecuador, 
+            El Salvador, French Guiana, Grenada, Guadeloupe, Guatemala, Guyana, Haiti, 
+            Honduras, Jamaica, Martinique, Montserrat, Nicaragua, Panama, Paraguay, Peru, 
+            Bolivia, Puerto Rico, Saint Barthélemy, Saint Kitts and Nevis, 
+            Saint Lucia, Saint Vincent and the Grenadines, Sint Maarten (Dutch part), 
+            Saint Martin (French part), Suriname, Trinidad and Tobago, Turks and Caicos Islands, 
+            United States Virgin Islands, Uruguay,   
+        ]   # included are: Other Latin America (starting at Anguilla)
 
     - Other Latin America:
         description: Region of Other Latin America as defined by TIAM
@@ -110,45 +158,31 @@
         ]
         
     - Rest of Asia and Pacific:
-        description: Region of Rest of Asia and Pacific as defined by TIAM
+        description: Region of Rest of Asia and Pacific as defined by TIAM for EXIOMOD
         countries: [
-             China # and others to be added
-        ]
-
-    - Eastern Asia:
-        description: Region of Eastern Asia as defined by TIAM
-        countries: [
-            China # and others to be added
-        ]
-
-    - Southeastern Asia:
-        description: Region of Southeastern Asia as defined by TIAM
-        countries: [
-            Viet Nam # and others to be added
-        ]
-
-    - Southern Asia:
-        description: Region of Southern Asia as defined by TIAM
-        countries: [
-            India # and others to be added
-        ]
-
-    - Middle East & Africa: 
-        description: Region of Middle East & Africa as defined by TIAM
-        countries: [
-            Oman # and others to be added
-        ]
+            Australia, India, Japan, South Korea, 
+            Armenia, Azerbaijan, Belarus, Estonia, Georgia, 
+            Kazakhstan, Kyrgyzstan, Lithuania, Latvia, Moldova, Russian Federation, Tajikistan, Turkmenistan, Ukraine, Uzbekistan, Kazakhstan, 
+            Afghanistan, American Samoa, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, 
+            China, Macao, Taiwan, Cook Islands, North Korea, 
+            Fiji, French Polynesia, Guam, Indonesia, Kiribati, Laos, 
+            Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia, Myanmar, 
+            Nauru, Nepal, New Caledonia, Niue, Northern Mariana Islands, 
+            Pakistan, Palau, Papua New Guinea, Philippines, Samoa, Singapore, 
+            Solomon Islands, Sri Lanka, Thailand, Timor-Leste, Tokelau, Tonga, 
+            Tuvalu, Vanuatu, Viet Nam, Wallis and Futuna, 
+        ] # included are the regions Former Soviet Union (starting at Armenia) and Other Developing Asia (starting at Afghanistan)
 
     - Other Developing Asia:
         description: Region of Other Developing Asia as defined by TIAM
         countries: [
-           Afghanistan, American Samoa, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, 
-           China, Macao, Taiwan, Cook Islands, North Korea, 
-           Fiji, French Polynesia, Guam, Indonesia, Kiribati, Laos, 
-           Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia, Myanmar, 
-           Nauru, Nepal, New Caledonia, Niue, Northern Mariana Islands, 
-           Pakistan, Palau, Papua New Guinea, Philippines, Samoa, Singapore, 
-           Solomon Islands, Sri Lanka, Thailand, Timor-Leste, Tokelau, Tonga, 
-           Tuvalu, Vanuatu, Viet Nam, Wallis and Futuna, 
-           # also: Scarborough Reef, Spratly Islands, Other non-specified areas, 
+            Afghanistan, American Samoa, Bangladesh, Bhutan, Brunei Darussalam, Cambodia, 
+            China, Macao, Taiwan, Cook Islands, North Korea, 
+            Fiji, French Polynesia, Guam, Indonesia, Kiribati, Laos, 
+            Malaysia, Maldives, Marshall Islands, Micronesia, Mongolia, Myanmar, 
+            Nauru, Nepal, New Caledonia, Niue, Northern Mariana Islands, 
+            Pakistan, Palau, Papua New Guinea, Philippines, Samoa, Singapore, 
+            Solomon Islands, Sri Lanka, Thailand, Timor-Leste, Tokelau, Tonga, 
+            Tuvalu, Vanuatu, Viet Nam, Wallis and Futuna, 
+            # also: Scarborough Reef, Spratly Islands, Other non-specified areas, 
         ]
