@@ -2,7 +2,7 @@ model:
   - TIAM-ECN 1.2
 native_regions:
   - Africa
-  # - TIAM-ECN 1.2|China
+   - China
   - Europe
   - Eastern Europe
   - Middle East
