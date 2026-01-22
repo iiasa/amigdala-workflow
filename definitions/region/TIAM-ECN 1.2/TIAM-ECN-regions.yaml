@@ -19,7 +19,7 @@
         # Southeast Africa (starting at Mozambique)
         # Western Africa (starting at Benin), 
 
-    - TIAM-ECN 1.2|China:
+    - China:
         description: Region of China as defined by TIAM for EXIOMOD
         countries: [
             China
