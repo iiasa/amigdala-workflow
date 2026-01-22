@@ -106,7 +106,7 @@
         countries: [
             Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Lithuania, Latvia, Moldova, Russian Federation, Tajikistan, Turkmenistan, Ukraine, Uzbekistan, 
         ]
-        
+
     - Other Developing Asia:
         description: Region of Other Developing Asia as defined by TIAM
         countries: [
@@ -166,3 +166,149 @@
             Isle of Man, Italy, Jersey, Liechtenstein, Luxembourg, Malta, Monaco, 
             Netherlands, Norway, Portugal, San Marino, Spain, Sweden, Switzerland, United Kingdom, Åland Islands  
         ] # also Channel Islands, Holy See (replaced with Vatican)) 
+
+
+    - Nigeria:
+        description: Country defined by TIAM
+        countries: [
+              Nigeria
+        ]
+        
+    - Australia:
+        description: Country defined by TIAM
+        countries: [
+              Australia
+        ]
+        
+    - Mexico:
+        description: Country defined by TIAM
+        countries: [
+              Mexico
+        ]
+        
+    - Democratic Republic of the Congo:
+        description: Country defined by TIAM
+        countries: [
+              Democratic Republic of the Congo
+        ]
+        
+    - Algeria:
+        description: Country defined by TIAM
+        countries: [
+              Algeria
+        ]
+        
+    - South Africa:
+        description: Country defined by TIAM
+        countries: [
+              South Africa
+        ]
+        
+    - Colombia:
+        description: Country defined by TIAM
+        countries: [
+              Colombia
+        ]
+        
+    - Ethiopia:
+        description: Country defined by TIAM
+        countries: [
+              Ethiopia
+        ]
+        
+    - India:
+        description: Country defined by TIAM
+        countries: [
+              India
+        ]
+        
+    - Argentina:
+        description: Country defined by TIAM
+        countries: [
+              Argentina
+        ]
+        
+    - Angola:
+        description: Country defined by TIAM
+        countries: [
+              Angola
+        ]
+        
+    - Libya:
+        description: Country defined by TIAM
+        countries: [
+              Libya
+        ]
+        
+    - Brazil:
+        description: Country defined by TIAM
+        countries: [
+              Brazil
+        ]
+        
+    - Tunisia:
+        description: Country defined by TIAM
+        countries: [
+              Tunisia
+        ]
+        
+    - Madagascar:
+        description: Country defined by TIAM
+        countries: [
+              Madagascar
+        ]
+        
+    - Venezuela:
+        description: Country defined by TIAM
+        countries: [
+              Venezuela
+        ]
+        
+    - South Korea:
+        description: Country defined by TIAM
+        countries: [
+              South Korea
+        ]
+        
+    - Canada:
+        description: Country defined by TIAM
+        countries: [
+              Canada
+        ]
+        
+    - Japan:
+        description: Country defined by TIAM
+        countries: [
+              Japan
+        ]
+        
+    - United States:
+        description: Country defined by TIAM
+        countries: [
+              United States
+        ]
+        
+    - Chile:
+        description: Country defined by TIAM
+        countries: [
+              Chile
+        ]
+        
+    - Kenya:
+        description: Country defined by TIAM
+        countries: [
+              Kenya
+        ]
+        
+    - Morocco:
+        description: Country defined by TIAM
+        countries: [
+              Morocco
+        ]
+        
+    - Egypt:
+        description: Country defined by TIAM
+        countries: [
+              Egypt
+        ]
+        
