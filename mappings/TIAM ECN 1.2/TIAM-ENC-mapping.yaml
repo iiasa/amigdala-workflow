@@ -1,0 +1,20 @@
+model:
+  - TIAM-ECN 1.2
+native_regions:
+  - Africa
+  - China
+  - Europe
+  - Eastern Europe
+  - Middle East
+  - North America
+  - Rest of Asia and Pacific
+  - South America
+  - Central Africa
+  - Eastern Africa
+  - Former Soviet Union
+  - Other Developing Asia
+  - Other Latin America
+  - Southeast Africa
+  - Southern Africa
+  - Western Africa
+  - Western Europe
