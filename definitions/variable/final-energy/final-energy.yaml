@@ -100,7 +100,7 @@
     description: Final energy consumption by the agriculture sector from heat
     unit: EJ/year
 
-- Final Energy|Agriculture|Heavy Fuel:
+- Final Energy|Agriculture|Heavy Fuel Oil:
     description: Final energy consumption by the agriculture sector from heavy fuel oil
     unit: EJ/year
 

@@ -17,6 +17,9 @@
 # - Primary Energy|Biomass|Other:
 #     description: Primary energy consumption from other feedstocks
 #     unit: EJ/year
+- Primary Energy|Biomass|Biofuels (liquids):
+    description: Primary energy input of biomass for liquid biofuel
+    unit: EJ/year
 
 - Primary Energy|Biomass|Energy Crops:
     description: Primary energy input of biomass for bioenergy crops
