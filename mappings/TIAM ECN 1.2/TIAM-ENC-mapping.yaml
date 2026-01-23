@@ -18,3 +18,28 @@ native_regions:
   - Southern Africa
   - Western Africa
   - Western Europe
+  # added countries for TIAM to this yaml file as well
+  - Nigeria
+  - Australia
+  - Mexico
+  - Democratic Republic of the Congo
+  - Algeria
+  - South Africa
+  - Colombia
+  - Ethiopia
+  - India
+  - Argentina
+  - Angola
+  - Libya
+  - Brazil
+  - Tunisia
+  - Madagascar
+  - Venezuela
+  - South Korea
+  - Canada
+  - Japan
+  - United States
+  - Chile
+  - Kenya
+  - Morocco
+  - Egypt

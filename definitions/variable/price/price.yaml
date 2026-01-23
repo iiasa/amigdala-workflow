@@ -11,6 +11,10 @@
     description: Price for brown coal 
     unit: EUR_2020/GJ
 
+- Price|Crude Oil:
+    description: Price for crude oil
+    unit: EUR_2020/GJ
+    
 - Price|Ethanol from Crop:
     description: Price for ethanol from crop
     unit: EUR_2020/GJ

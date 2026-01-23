@@ -106,7 +106,7 @@
         countries: [
             Armenia, Azerbaijan, Belarus, Estonia, Georgia, Kazakhstan, Kyrgyzstan, Lithuania, Latvia, Moldova, Russian Federation, Tajikistan, Turkmenistan, Ukraine, Uzbekistan, 
         ]
-        
+
     - Other Developing Asia:
         description: Region of Other Developing Asia as defined by TIAM
         countries: [
@@ -166,3 +166,4 @@
             Isle of Man, Italy, Jersey, Liechtenstein, Luxembourg, Malta, Monaco, 
             Netherlands, Norway, Portugal, San Marino, Spain, Sweden, Switzerland, United Kingdom, Åland Islands  
         ] # also Channel Islands, Holy See (replaced with Vatican)) 
+
